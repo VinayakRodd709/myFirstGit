@@ -1,1 +1,2 @@
 # myFirstGit
+Author - Vinayak Rodd
